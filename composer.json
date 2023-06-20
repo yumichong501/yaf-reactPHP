@@ -1,0 +1,14 @@
+{
+    "name": "lhz/yaf-react-test",
+    "config": {
+        "secure-http": false
+    },
+    "autoload": {
+        "psr-4": {
+            "application\\": "application/"
+        }
+    },
+    "require": {
+
+    }
+}
