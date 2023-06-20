@@ -9,6 +9,6 @@
         }
     },
     "require": {
-
+        "react/react" : "*"
     }
 }

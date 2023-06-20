@@ -5,7 +5,6 @@
     //error_reporting(E_ALL ^ E_NOTICE);
     ########################
 
-
     define('APPLICATION_PATH', dirname(__FILE__) . "/..");
     $config = new Yaf_Config_Ini(APPLICATION_PATH . '/conf/application.ini', ini_get('yaf.environ'));
 
