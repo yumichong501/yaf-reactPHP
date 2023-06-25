@@ -1,13 +1,6 @@
 {
-    "config": {
-        "secure-http": false
-    },
-    "autoload": {
-        "psr-4": {
-            "application\\": "application/"
-        }
-    },
+    "name": "react/yaf-react-test",
     "require": {
-        "react/react" : "*"
+        "react/react": "^1.3"
     }
 }
