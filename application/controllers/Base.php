@@ -20,8 +20,7 @@ class BaseController extends Yaf_Controller_Abstract
      * 获取raw请求参数
      */
     public function getRawParam(){
-        $rawContent = Yaf_Registry::get("react_request")->rawContent();
-        return json_decode($rawContent,true);
+        return Yaf_Registry::get("react_request")->getQueryParams();
     }
 
     /**

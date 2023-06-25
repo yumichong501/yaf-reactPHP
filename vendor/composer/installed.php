@@ -3,7 +3,7 @@
         'name' => 'lhz/yaf-react-test',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'a7a209f9985bfb1dd5b4ddc72dd8f60bdc670d89',
+        'reference' => '1b8b11fe264c1e7eb4d3d714bffcabb7e41d1864',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -31,7 +31,7 @@
         'lhz/yaf-react-test' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'a7a209f9985bfb1dd5b4ddc72dd8f60bdc670d89',
+            'reference' => '1b8b11fe264c1e7eb4d3d714bffcabb7e41d1864',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
